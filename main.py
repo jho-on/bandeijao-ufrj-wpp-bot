@@ -47,12 +47,12 @@ if res.status_code == 200:
 * Sobremesa: {dataAlmoco[5]}
 
 *Jantar*
-* Entrada: {dataJantar[0]}
-* Prato Principal: {dataJantar[1]}
-* Prato Vegano: {dataJantar[2]}
-* Guarnição: {dataJantar[3]}
-* Acompanhamentos: {dataJantar[4]}
-* Sobremesa: {dataJantar[5]}
+* Entrada: {dataJantar[1]}
+* Prato Principal: {dataJantar[2]}
+* Prato Vegano: {dataJantar[3]}
+* Guarnição: {dataJantar[4]}
+* Acompanhamentos: {dataJantar[5]}
+* Sobremesa: {dataJantar[6]}
 
 
 O cardápio poderá sofrer alteração sem comunicação prévia.
