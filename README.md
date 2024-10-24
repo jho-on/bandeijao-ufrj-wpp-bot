@@ -2,7 +2,7 @@
 
 Essa é uma aplicação que manda uma mensagem no whatsapp com o cardápio (Almoço e Jantar) do bandeijao da UFRJ.
 
-Atualmente ela utiliza da Greem Api para mandar mensagem para um grupo no whatsapp.
+Atualmente ela utiliza da Green Api para mandar mensagem para um grupo no whatsapp.
 
 # Reposta
 
