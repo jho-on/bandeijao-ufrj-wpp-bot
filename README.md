@@ -1,10 +1,10 @@
-# Bandeijao Bot
+# Bandeijão Bot
 
-Essa é uma aplicação que manda uma mensagem no whatsapp com o cardápio (Almoço e Jantar) do bandeijao da UFRJ.
+Esta é uma aplicação que envia uma mensagem no WhatsApp com o cardápio do almoço e do jantar dos bandeijões RU, CT e Letras da UFRJ, às 6h40 e às 15h, respectivamente.
 
-Atualmente ela utiliza da Green Api para mandar mensagem para um grupo no whatsapp.
+Atualmente, o sistema utiliza a Green Api para enviar as mensagens.
 
-# Reposta
+# Mensagem do Bot
 
 Hoje e DIA_DA_SEMANA e temos de cardápio:
 
