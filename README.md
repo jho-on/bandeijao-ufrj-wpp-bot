@@ -1,31 +1,31 @@
-# Bandeijão Bot
+#  Bandeijão Bot
 
-Esta é uma aplicação que envia uma mensagem no WhatsApp com o cardápio do almoço e do jantar dos bandeijões RU, CT e Letras da UFRJ, às 6h40 e às 15h, respectivamente.
+**Bandeijão Bot** é uma aplicação Python que envia mensagens via WhatsApp com o cardápio do **almoço** e **jantar** dos restaurantes universitários da **UFRJ**: Central, CT e Letras.
 
-Atualmente, o sistema utiliza a Green Api para enviar as mensagens.
+As mensagens são enviadas automaticamente, possivelmente com pequena variação de tempo, nos seguintes horários:
 
-# Mensagem do Bot
+-  **06:40** — Cardápio do **almoço**
+-  **14:50** — Cardápio do **jantar**
 
-Hoje e DIA_DA_SEMANA e temos de cardápio:
+Atualmente, o sistema utiliza a API [WAHA](https://waha.devlike.pro/) para o envio das mensagens.
 
-**Almoço**
+---
 
-* Entrada: 
-* Prato Principal:
-* Prato Vegano: 
-* Guarnição:
-* Acompanhamentos: 
-* Sobremesa: 
+##  Exemplo de mensagem
+Hoje é *terça-feira* e para o **almoço** temos:
 
-**Jantar**
+- **Entrada:** Salada verde  
 
-* Entrada:
-* Prato Principal: 
-* Prato Vegano: 
-* Guarnição: 
-* Acompanhamentos: 
-* Sobremesa: 
+- **Prato Principal:** Frango assado  
 
+- **Prato Vegano:** Quibe de abóbora  
 
-O cardápio poderá sofrer alteração sem comunicação prévia.
-Nossas preparações podem conter glúten.
+- **Guarnição:** Arroz integral  
+
+- **Acompanhamentos:** Feijão, farofa  
+
+- **Sobremesa:** Banana  
+
+_O cardápio poderá sofrer alteração sem comunicação prévia._  
+_Nossas preparações podem conter glúten._
+
