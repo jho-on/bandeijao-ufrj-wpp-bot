@@ -4,8 +4,10 @@
 
 As mensagens são enviadas automaticamente, possivelmente com pequena variação de tempo, nos seguintes horários:
 
--  **06:40** — Cardápio do **almoço**
+-  **06:40*** — Cardápio do **almoço**
 -  **14:50** — Cardápio do **jantar**
+
+*Nas segundas o cardápio é enviado as 7:20, devido ao tempo de atualização da [planilha](https://docs.google.com/spreadsheets/d/1YvCqBrNw5l4EFNplmpRBFrFJpjl4EALlVNDk3pwp_dQ/pubhtml) que contém as refeições servidas.
 
 Atualmente, o sistema utiliza a API [WAHA](https://waha.devlike.pro/) para o envio das mensagens.
 
